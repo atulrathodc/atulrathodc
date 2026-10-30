@@ -1,65 +1,45 @@
 <div align="center">
 
-# Atul Rathod
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:06b6d4&height=200&section=header&text=Atul%20Rathod&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer&descSize=18&descAlignY=54&animation=fadeIn" alt="Atul Rathod — Full-Stack Developer" width="100%" />
 
-### Full-Stack Developer
+### Building web applications end to end
 
-I build web applications end to end — from the data layer and APIs to the
-interfaces people actually use. Currently focused on shipping clean,
-well-tested software and learning something new every week.
+From the data layer and APIs all the way to the interfaces people actually use —
+focused on shipping clean, well-tested software and learning something new every week.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+AI-powered+products;Shipping+clean%2C+well-tested+code" alt="Typing SVG" />
+
+<a href="https://portfolio.buildurgent.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.buildurgent.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://ai.buildurgent.com/"><img src="https://img.shields.io/badge/AI-BuildUrgent-2563eb?style=for-the-badge&logo=googlegemini&logoColor=white" alt="AI · BuildUrgent" /></a>
+<a href="mailto:atulrathodc@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/atulrathodc?label=Followers&style=social)](https://github.com/atulrathodc?tab=followers)
+[![Stars](https://img.shields.io/github/stars/atulrathodc?label=Stars&style=social)](https://github.com/atulrathodc)
+![Profile views](https://komarev.com/ghpvc/?username=atulrathodc&label=Profile%20views&color=7c3aed&style=flat)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
+
+## 🧑‍💻 About Me
+
+<table>
+<tr><td><b>🔭 Currently building</b></td><td>AI-powered products at <a href="https://ai.buildurgent.com/">BuildUrgent</a></td></tr>
+<tr><td><b>🌍 Based in</b></td><td>Indore, India · IST (UTC+05:30)</td></tr>
+<tr><td><b>🧠 Currently learning</b></td><td>applied LLM features, retrieval, and shipping AI to real users</td></tr>
+<tr><td><b>👯 Open to collaborate</b></td><td>open-source projects and developer tooling</td></tr>
+<tr><td><b>💬 Ask me about</b></td><td>JavaScript, TypeScript, React, Node.js, Python, and REST APIs</td></tr>
+<tr><td><b>⚡ Fun fact</b></td><td>I'm happiest when a refactor deletes more code than it adds</td></tr>
+<tr><td><b>📫 Reach me</b></td><td><a href="mailto:atulrathodc@gmail.com">atulrathodc@gmail.com</a></td></tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
+
+## 🛠️ Tech Stack
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/atulrathodc?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/atulrathodc?label=Stars&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=atulrathodc&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-## Live profile page
-
-This repo also ships a **self-contained static profile page** — a dark, animated
-landing page with a live Indore (IST) clock, glassmorphism link cards, and every
-way to reach me in one place.
-
-| File | Purpose |
-| :--- | :------ |
-| `index.html` | The whole profile page (semantic markup, inline SVG icons, meta/OG tags) |
-| `styles.css` | Dark aurora theme, glass cards, responsive layout, reduced-motion support |
-| `script.js` | Live IST clock, scroll reveals, copy-email toast, card spotlight/tilt |
-
-**Run it** — there is no build step and no dependencies:
-
-```bash
-# Option 1 — just open the file
-open index.html
-
-# Option 2 — serve it (recommended)
-python3 -m http.server 8080
-#   →  http://localhost:8080
-```
-
-**Live:** <https://portfolio.buildurgent.com>
-
----
-
-## About Me
-
-- 🔭 **Currently building:** AI-powered products at [BuildUrgent](https://ai.buildurgent.com/)
-- 🌍 **Based in:** Indore, India · IST (UTC+05:30)
-- 🧠 **Currently learning:** applied LLM features, retrieval, and shipping AI to real users
-- 👯 **Looking to collaborate on:** open-source projects and developer tooling
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, Python, and REST APIs
-- ⚡ **Fun fact:** I'm happiest when a refactor deletes more code than it adds
-- 📫 **How to reach me:** [atulrathodc@gmail.com](mailto:atulrathodc@gmail.com)
-
----
-
-## Tech Stack
 
 **Languages**
 
@@ -101,45 +81,101 @@ python3 -m http.server 8080
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</div>
 
-## Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
 
-| Project | Description | Stack |
-| :------ | :---------- | :---- |
-| [**Portfolio**](https://portfolio.buildurgent.com) | My personal site — case studies and the work I'm shipping at BuildUrgent. | Next.js · TypeScript |
-| [**AI · BuildUrgent**](https://ai.buildurgent.com/) | AI-powered product surface at BuildUrgent — real users, real inference. | React · TypeScript · Node.js |
-| [**Profile page**](./index.html) | This repo's static, dependency-free profile page: aurora gradients, live IST clock, glass UI. | HTML · CSS · Vanilla JS |
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Stats
+### 🌐 Portfolio
+
+My personal site — case studies and the work I'm shipping at BuildUrgent.
+
+`Next.js` · `TypeScript`
+
+<a href="https://portfolio.buildurgent.com"><img src="https://img.shields.io/badge/Visit-portfolio.buildurgent.com-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Portfolio" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI · BuildUrgent
+
+AI-powered product surface at BuildUrgent — real users, real inference.
+
+`React` · `TypeScript` · `Node.js`
+
+<a href="https://ai.buildurgent.com/"><img src="https://img.shields.io/badge/Visit-ai.buildurgent.com-2563eb?style=flat-square&logo=googlegemini&logoColor=white" alt="Visit AI BuildUrgent" /></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=atulrathodc&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Atul Rathod's GitHub stats"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulrathodc&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Atul Rathod's top languages"
-  height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atulrathodc&theme=tokyonight"
+  alt="Atul Rathod's GitHub profile summary"
+  width="85%"
 />
 
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com/?user=atulrathodc&theme=tokyonight&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atulrathodc&theme=tokyonight"
+  alt="Atul Rathod's GitHub stats"
+  height="180"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atulrathodc&theme=tokyonight"
+  alt="Atul Rathod's most used languages"
+  height="180"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atulrathodc&theme=tokyonight"
+  alt="Atul Rathod's repositories per language"
+  height="180"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atulrathodc&theme=tokyonight&utcOffset=5.5"
+  alt="Atul Rathod's productive time"
+  height="180"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=atulrathodc&theme=tokyonight&hide_border=true&border_radius=10"
   alt="Atul Rathod's GitHub streak"
+  height="165"
 />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
 
-## Connect
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/atul-rathod-99bb58bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/Atul_Rathod11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+<a href="https://instagram.com/atul.rathod.5076"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://t.me/atul__rathod"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/atulrathodc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:atulrathodc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 | | Where | Link |
 | :-: | :---- | :--- |
@@ -152,14 +188,20 @@ python3 -m http.server 8080
 | ✈️ | **Telegram** | [@atul__rathod](https://t.me/atul__rathod) |
 | 🐙 | **GitHub** | [@atulrathodc](https://github.com/atulrathodc) |
 
+<div align="center">
+
 > **My information you can find here: <https://portfolio.buildurgent.com>**
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" width="100%" />
 
 <div align="center">
 
 **Thanks for stopping by — feel free to explore my repositories and reach out.**
 
-![Profile views](https://komarev.com/ghpvc/?username=atulrathodc&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:7c3aed&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="" width="100%" />
+
+![Profile views](https://komarev.com/ghpvc/?username=atulrathodc&label=Profile%20views&color=7c3aed&style=flat)
 
 </div>
