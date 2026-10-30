@@ -20,14 +20,42 @@ well-tested software and learning something new every week.
 
 ---
 
+## Live profile page
+
+This repo also ships a **self-contained static profile page** — a dark, animated
+landing page with a live Indore (IST) clock, glassmorphism link cards, and every
+way to reach me in one place.
+
+| File | Purpose |
+| :--- | :------ |
+| `index.html` | The whole profile page (semantic markup, inline SVG icons, meta/OG tags) |
+| `styles.css` | Dark aurora theme, glass cards, responsive layout, reduced-motion support |
+| `script.js` | Live IST clock, scroll reveals, copy-email toast, card spotlight/tilt |
+
+**Run it** — there is no build step and no dependencies:
+
+```bash
+# Option 1 — just open the file
+open index.html
+
+# Option 2 — serve it (recommended)
+python3 -m http.server 8080
+#   →  http://localhost:8080
+```
+
+**Live:** <https://portfolio.buildurgent.com>
+
+---
+
 ## About Me
 
-- 🔭 **Currently building:** `<!-- TODO: what you are building right now -->`
-- 🌱 **Currently learning:** `<!-- TODO: a technology or topic you are studying -->`
+- 🔭 **Currently building:** AI-powered products at [BuildUrgent](https://ai.buildurgent.com/)
+- 🌍 **Based in:** Indore, India · IST (UTC+05:30)
+- 🧠 **Currently learning:** applied LLM features, retrieval, and shipping AI to real users
 - 👯 **Looking to collaborate on:** open-source projects and developer tooling
-- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, and REST APIs
-- ⚡ **Fun fact:** `<!-- TODO: one fun fact about you -->`
-- 📫 **How to reach me:** `<!-- TODO: your email address -->`
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, Python, and REST APIs
+- ⚡ **Fun fact:** I'm happiest when a refactor deletes more code than it adds
+- 📫 **How to reach me:** [atulrathodc@gmail.com](mailto:atulrathodc@gmail.com)
 
 ---
 
@@ -77,19 +105,11 @@ well-tested software and learning something new every week.
 
 ## Featured Projects
 
-> The rows below are placeholders — replace them with your own repositories.
-
 | Project | Description | Stack |
 | :------ | :---------- | :---- |
-| [`project-one`](https://github.com/atulrathodc) | Short description of what this project does and the problem it solves. | React · TypeScript · Node.js |
-| [`project-two`](https://github.com/atulrathodc) | Short description of what this project does and the problem it solves. | Next.js · PostgreSQL |
-| [`project-three`](https://github.com/atulrathodc) | Short description of what this project does and the problem it solves. | Python · FastAPI · Docker |
-
-<!--
-Row template — copy this line into the table above:
-
-| [`repo-name`](https://github.com/atulrathodc/repo-name) | One sentence about the project. | Tech · Tech · Tech |
--->
+| [**Portfolio**](https://portfolio.buildurgent.com) | My personal site — case studies and the work I'm shipping at BuildUrgent. | Next.js · TypeScript |
+| [**AI · BuildUrgent**](https://ai.buildurgent.com/) | AI-powered product surface at BuildUrgent — real users, real inference. | React · TypeScript · Node.js |
+| [**Profile page**](./index.html) | This repo's static, dependency-free profile page: aurora gradients, live IST clock, glass UI. | HTML · CSS · Vanilla JS |
 
 ---
 
@@ -121,10 +141,18 @@ Row template — copy this line into the table above:
 
 ## Connect
 
-- 💼 **LinkedIn:** `<YOUR_LINKEDIN_URL>` <!-- TODO: replace with your LinkedIn profile URL -->
-- 📧 **Email:** `<YOUR_EMAIL>` <!-- TODO: replace with your email address -->
-- 🐦 **X / Twitter:** `<YOUR_X_URL>` <!-- TODO: replace with your X profile URL -->
-- 🐙 **GitHub:** [@atulrathodc](https://github.com/atulrathodc)
+| | Where | Link |
+| :-: | :---- | :--- |
+| 🌐 | **Portfolio** | <https://portfolio.buildurgent.com> |
+| 🤖 | **AI · BuildUrgent** | <https://ai.buildurgent.com/> |
+| 📧 | **Email** | [atulrathodc@gmail.com](mailto:atulrathodc@gmail.com) |
+| 💼 | **LinkedIn** | <https://www.linkedin.com/in/atul-rathod-99bb58bb> |
+| 🐦 | **X / Twitter** | [@Atul_Rathod11](https://x.com/Atul_Rathod11) |
+| 📸 | **Instagram** | [@atul.rathod.5076](https://instagram.com/atul.rathod.5076) |
+| ✈️ | **Telegram** | [@atul__rathod](https://t.me/atul__rathod) |
+| 🐙 | **GitHub** | [@atulrathodc](https://github.com/atulrathodc) |
+
+> **My information you can find here: <https://portfolio.buildurgent.com>**
 
 ---
 
